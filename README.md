@@ -1,4 +1,4 @@
-# Product Sales Analytics | ABC Analysis · Excel
+# Product Sales Analytics | ABC Analysis · Google Sheets
 **Tool:** Google Sheets 
 
 **Dataset:** E-commerce orders, Europe & Western Asia
